@@ -14,7 +14,7 @@
   <a href="https://babul-tau.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sh8657706">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=babulpro&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
