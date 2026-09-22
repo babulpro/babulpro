@@ -14,9 +14,9 @@
   <a href="https://babul-tau.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:sh8657706">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sh8657706@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <img src="https://komarev.com/ghpvc/?username=babulpro&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -81,16 +81,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=babulpro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babulpro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
+ 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=babulpro&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=babulpro&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+ 
 
 </div>
 
@@ -160,7 +157,7 @@ Multi-page rental platform with listings, host dashboards, and fluid property di
 <a href="https://babul-tau.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sh8657706@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
